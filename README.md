@@ -1,2 +1,3 @@
 # phythonbasics
-'hello'
+print("Hello World")
+output :- Hello World
